@@ -1,0 +1,3 @@
+Tener instalado Net6
+Tener instalado Vlc
+Disfruta.

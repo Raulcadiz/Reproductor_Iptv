@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReproIptvg3v3r/1.0.0": {
+        "runtime": {
+          "ReproIptvg3v3r.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReproIptvg3v3r/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
